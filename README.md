@@ -43,3 +43,4 @@ This is a Django app boilerplate with Africa's Talking SMS API. This app will of
 # Django_Bulk_SMS
 This is a Django app boilerplate with Africa's Talking SMS API. This app will offer a view of integration of SMS API's with Django and Django Rest Framework. Thank you
 >>>>>>> 931e8eea6db6bba8efc4ce3f7784cf2d480ac5ed
+# Django_Bulk_SMS
