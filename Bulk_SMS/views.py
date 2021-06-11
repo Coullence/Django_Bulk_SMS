@@ -25,7 +25,7 @@ def outbox(request):
     return render(request, "smsapp/outbox.html", context)
 
 
-def create_sms(request):
+def create_sms(request): 
     form = CreateSms()
     if request.method == "POST":
         form = CreateSms(request.POST)
